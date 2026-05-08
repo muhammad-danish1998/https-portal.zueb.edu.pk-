@@ -4,7 +4,7 @@
 
 const students = {
   672231: {
-    image: "images/student1.png",
+    image: "images/student1.PNG",
 
     name: " AMIR KHAN",
 
