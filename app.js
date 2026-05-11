@@ -56,7 +56,7 @@ const students = {
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
-  678777: {
+  682314: {
     image: "images/student4.jpeg",
 
     name: "  SAMAMA SIDDIQUI",
@@ -73,7 +73,7 @@ const students = {
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
-  682314: {
+  678777: {
     image: "images/student5.jpeg",
 
     name: "  MUHAMMAD ALIYAN AHMED",
