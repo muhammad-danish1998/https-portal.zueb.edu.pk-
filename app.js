@@ -56,6 +56,40 @@ const students = {
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
+  682299: {
+    image: "images/student3.jpeg",
+
+    name: "  MUHAMMAD ALIYAN AHMED",
+
+    father: "KAMRAN AHMED SHAIKH",
+
+    institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
+
+    enrollment: "ZUEB/H.S.C/2025/150093",
+
+    group: "PRE-ENGINEERING",
+
+    dob: "26-MAR-2008",
+
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
+  },
+  682299: {
+    image: "images/student4.jpeg",
+
+    name: "  SAMAMA SIDDIQUI",
+
+    father: "NASAR MOHIUDDIN",
+
+    institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
+
+    enrollment: "ZUEB/H.S.C/2025/149698",
+
+    group: "PRE-ENGINEERING",
+
+    dob: "04-JUN-2010",
+
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
+  },
 };
 
 // =========================
