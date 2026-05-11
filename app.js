@@ -21,40 +21,40 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  480124: {
-    image: "images/student2.jpg",
+  695797: {
+    image: "images/student2.jpeg",
 
-    name: "AHMED ALI",
+    name: "AHMAD AAYAN ARSHAD",
 
-    father: "SAJID ALI",
+    father: "MUHAMMAD ARSHAD",
 
-    institute: "CITY COLLEGE",
+    institute: "J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
 
-    enrollment: "ZUEB/H.S.C/2024/999111",
+    enrollment: "ZUEB/M-H.S.C/2024/152832",
 
-    group: "COMPUTER SCIENCE",
+    group: "PRIVATE PRE-ENGINEERING",
 
-    dob: "10-Jan-2006",
+    dob: "24-JUL-2007",
 
-    venue: "CITY EXAM CENTER",
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  480125: {
-    image: "images/student3.jpg",
+  682299: {
+    image: "images/student3.jpeg",
 
-    name: "SARA NOOR",
+    name: " DANIYAL ZAFAR",
 
-    father: "IMRAN NOOR",
+    father: "ZAFAR IQBAL",
 
-    institute: "THE EDUCATORS",
+    institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
 
-    enrollment: "ZUEB/H.S.C/2024/777444",
+    enrollment: "ZUEB/H.S.C/2025/150089",
 
-    group: "PRE-MEDICAL",
+    group: "PRE-ENGINEERING",
 
-    dob: "02-Feb-2007",
+    dob: "06-APR-2008",
 
-    venue: "MAIN BOARD OFFICE",
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 };
 
