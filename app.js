@@ -90,6 +90,23 @@ const students = {
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
+  682314: {
+    image: "images/student5.jpeg",
+
+    name: "  SAMAMA SIDDIQUI",
+
+    father: "NASAR MOHIUDDIN",
+
+    institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
+
+    enrollment: "ZUEB/H.S.C/2025/149698",
+
+    group: "PRE-ENGINEERING",
+
+    dob: "04-JUN-2010",
+
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
+  },
 };
 
 // =========================
