@@ -21,7 +21,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  695797: {
+  682299: {
     image: "images/student2.jpeg",
 
     name: "AHMAD AAYAN ARSHAD",
@@ -39,7 +39,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  682299: {
+  695797: {
     image: "images/student3.jpeg",
 
     name: " DANIYAL ZAFAR",
