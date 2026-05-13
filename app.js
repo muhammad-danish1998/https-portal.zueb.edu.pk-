@@ -90,6 +90,23 @@ const students = {
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
+  698583: {
+    image: "images/student6.jpeg",
+
+    name: "  RIMSHA BIBI",
+
+    father: "SYED RASHEED SHAH",
+
+    institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
+
+    enrollment: "ZUEB/M-H.S.C/2024/161793",
+
+    group: "PRIVATE PRE-MEDICAL",
+
+    dob: "19-OCT-2006",
+
+    venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
+  },
 };
 
 // =========================
