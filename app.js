@@ -39,20 +39,20 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  695797: {
+  678779: {
     image: "images/student3.jpeg",
 
-    name: " DANIYAL ZAFAR",
+    name: "MUHAMMAD DANIYAL",
 
-    father: "ZAFAR IQBAL",
+    father: "ABDUL HAFEEZ",
 
     institute: " J.M.T PUBLIC HIGHER SECONDARY SCHOOL",
 
-    enrollment: "ZUEB/H.S.C/2025/150089",
+    enrollment: "ZUEB/H.S.C/2025/150090",
 
     group: "PRE-ENGINEERING",
 
-    dob: "06-APR-2008",
+    dob: "15-JUL-2008",
 
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
@@ -74,7 +74,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
   678777: {
-    image: "images/student5.jpeg",
+    image: "images/student1.jpeg",
 
     name: "  MUHAMMAD ALIYAN AHMED",
 
@@ -84,7 +84,7 @@ const students = {
 
     enrollment: "ZUEB/H.S.C/2025/150093",
 
-    group: "PRE-ENGINEERING",
+    group: "GENERAL SCIENCE",
 
     dob: "26-MAR-2008",
 
