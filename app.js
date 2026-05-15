@@ -74,7 +74,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
   678777: {
-    image: "images/student1.jpeg",
+    image: "images/student1.PNG",
 
     name: "  MUHAMMAD ALIYAN AHMED",
 
