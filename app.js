@@ -21,7 +21,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  682299: {
+  695797: {
     image: "images/student2.jpeg",
 
     name: "AHMAD AAYAN ARSHAD",
@@ -50,7 +50,7 @@ const students = {
 
     enrollment: "ZUEB/H.S.C/2025/150090",
 
-    group: "PRE-ENGINEERING",
+    group: "GENERAL SCIENCE",
 
     dob: "15-JUL-2008",
 
@@ -74,7 +74,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
   678777: {
-    image: "images/student1.PNG",
+    image: "images/student5.jpeg",
 
     name: "  MUHAMMAD ALIYAN AHMED",
 
