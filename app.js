@@ -57,7 +57,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
   682314: {
-    image: "images/student4.jpeg",
+    image: "images/m.jpeg",
 
     name: "  SAMAMA SIDDIQUI",
 
