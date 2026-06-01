@@ -21,7 +21,7 @@ const students = {
     venue: "THE EDUCAREER SCHOOLING SYSTEM (HIGHER SECONDARY)",
   },
 
-  695797: {
+  695791: {
     image: "images/student2.jpeg",
 
     name: "AHMAD AAYAN ARSHAD",
