@@ -22,7 +22,7 @@ const students = {
   },
 
   695797: {
-    image: "images/student2.jpeg",
+    image: "images/student3.jpeg",
 
     name: "AHMAD AAYAN ARSHAD",
 
